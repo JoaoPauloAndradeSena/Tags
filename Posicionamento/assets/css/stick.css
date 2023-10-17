@@ -1,0 +1,21 @@
+main {
+    height: 300px;
+    width: 100%;
+}
+
+#principal,
+#second-div {
+    height: 1950px;
+    background-color: bisque;
+}
+
+#image {
+    background-image: url(../imagens/imagem4.jpg);
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 441px;
+    position: sticky;
+    top: 50px;
+    left: 50px;
+
+}
