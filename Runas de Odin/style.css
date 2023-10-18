@@ -12,7 +12,7 @@ footer {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ddd;
-    background-color: #fff;
+    background-color: #ffffff9d;
 }
 
 nav ul {
@@ -56,4 +56,18 @@ footer {
     height: 2px;
     background-color: transparent;
     border-radius: 100%;
+}
+
+img {
+    width: 236px;
+    height: 295px;
+}
+
+body {
+    min-width: 600px;
+    background-image: url(assets/img/imagemdefundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
 }
